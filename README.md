@@ -11,7 +11,7 @@ A simple Django application that displays the current weather for a searched cit
 ## Setup and Installation
 
 1.  **Clone the repository:**
-    `git clone <your-repo-url>`
+    `git clone https://github.com/Hi-Hd/WeatherApp.git`
 2.  **Create a virtual environment:**
     `python -m venv venv`
     `source venv/bin/activate`
